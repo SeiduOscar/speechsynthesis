@@ -24,5 +24,5 @@ To run this application, you need Python 3.x and the following packages:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/JarvisAIRedReader.git
+   git clone https://github.com/SeiduOscar/speechsynthesis.git
    cd JarvisAIRedReader
