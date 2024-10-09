@@ -1,0 +1,6 @@
+### `requirements.txt`
+
+```plaintext
+pyttsx3
+pyperclip
+PyQt5
